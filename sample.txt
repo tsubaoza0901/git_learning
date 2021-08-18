@@ -1,5 +1,3 @@
-Hello world!!
+明日は木曜日
 
-Good Night!!
-
-Say Hello!!
+明後日は金曜日
